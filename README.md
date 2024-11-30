@@ -79,7 +79,10 @@ assign c[4]=a^b;
 assign c[5]=~(a^b);
 assign c[6]=~a;
 endmodule
- 
+![Screenshot 2024-11-12 105140](https://github.com/user-attachments/assets/a0047274-e8c9-4a95-9bb2-571549a70beb)
+ ![Screenshot 2024-11-12 110939](https://github.com/user-attachments/assets/a46454c6-83f4-4c00-af0c-d1d7bf9de304)
+
+
 **Logic symbol & Truthtable**
 ![Screenshot 2024-11-12 105140](https://github.com/user-attachments/assets/a0047274-e8c9-4a95-9bb2-571549a70beb)
 
@@ -91,5 +94,4 @@ endmodule
 **RTL**
 
 **Result:**
-
-
+The output of Basic Logic gates are verified by simulating and synthesizing the VERILOG code
